@@ -1,2 +1,4 @@
-# jogo_de_forca
+# JOGO DE FORCA
+
 Jogo de Forca - Feito em Python.
+
