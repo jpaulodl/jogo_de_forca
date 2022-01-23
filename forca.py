@@ -52,7 +52,7 @@ def imprime_msg_abertura():
 def imprime_tema():
     print('Escolha o tema!\n')
     print('(1) Frutas')
-    print('(2) Paises')
+    print('(2) Países')
     print('(3) Objetos\n')
 
 def frutas():
